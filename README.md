@@ -1,2 +1,2 @@
-# summer_web_1
+# News Website 
 for summer-websites projects
