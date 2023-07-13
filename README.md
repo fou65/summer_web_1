@@ -25,3 +25,6 @@ where you can find top headlines articles in US.
   by clicking on the article it navigates to an external link where you can find all information about this article from its source publisher.
 #### 3. Search functionality:
 you can search for news by certain topic/query
+---
+### video 
+attached drive link for the workflow of the website https://drive.google.com/drive/u/0/folders/1qpJNrNlNR_tp7J3idIcLHsEa_lyHwN4H
